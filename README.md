@@ -5,7 +5,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Phaser)
 
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://phaser.io/docs/2.6.2/index) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=google)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLf7shAYyfc3r8OeeUvVVEb2FzySGZktHk&si=LyTzb8nvtulx518s)
@@ -37,4 +37,5 @@ O framework é bastante popular devido à sua simplicidade e flexibilidade. Ele 
 3. **Dependência do Ecossistema Web:** Como é baseado em tecnologias web, a performance do seu jogo pode depender da qualidade e velocidade do navegador utilizado, o que pode variar.
 
 4. **Curva de Aprendizado para Recursos Avançados:** Embora seja fácil começar, a curva de aprendizado pode se tornar mais íngreme ao explorar recursos mais avançados do framework.
+
 
