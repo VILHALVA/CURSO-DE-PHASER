@@ -2,17 +2,9 @@
 👨‍⚖️PHASER É UM FRAMEWORK DE CÓDIGO ABERTO PARA CRIAÇÃO DE JOGOS EM HTML5, JAVASCRIPT E WEBGL. ELE FORNECE UMA VARIEDADE DE FERRAMENTAS E RECURSOS PARA FACILITAR O DESENVOLVIMENTO DE JOGOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Phaser)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://phaser.io/docs/2.6.2/index) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLf7shAYyfc3r8OeeUvVVEb2FzySGZktHk&si=LyTzb8nvtulx518s)
-
-<img src="https://img.stackshare.io/service/4014/sqSv2hIr_400x400.jpg" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Phaser é um framework de código aberto para o desenvolvimento de jogos em HTML5, JavaScript e WebGL. Ele facilita a criação de jogos 2D para navegadores web e dispositivos móveis. O Phaser oferece uma variedade de funcionalidades, desde manipulação de sprites e animações até física de jogos e suporte a áudio.
