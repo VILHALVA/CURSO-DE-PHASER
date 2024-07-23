@@ -61,5 +61,7 @@ O framework é bastante popular devido à sua simplicidade e flexibilidade. Ele 
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://phaser.io/docs/2.6.2/index)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-- [VEJA A SINTAXE](./SINTAXE.md)
+- [TECNOLOGIA](https://github.com/VILHALVA/CURSO-DE-NODEJS)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PHASER)
+
